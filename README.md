@@ -8,7 +8,8 @@ I have utilize a dataset related to marketing bank products over the telephone. 
 
 ## Dataset and Notebook
 The link to the dataset is: https://github.com/Apeksha-Sridhar/MLAI_Classification/blob/main/bank-additional-full.csv
-The link to the Jupyter Notebook is: https://github.com/Apeksha-Sridhar/MLAI_Classification/blob/main/prompt_III.ipynb
+
+The link to the Jupyter Notebook is: https://github.com/Apeksha-Sridhar/MLAI_Classification/blob/main/Jupyter_notebook.ipynb
 
 ## Data Findings
 The most important bank information features that were selected are students, age, retired folks, illiterate, default_no, unemployed and married folks.
