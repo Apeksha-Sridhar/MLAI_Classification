@@ -4,7 +4,7 @@
 This project is a Practical Assignment Module 17. Here I compare the performance of the classifiers namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines. 
 
 ## Goal
-I have utilize a dataset related to marketing bank products over the telephone. The goal of this project is to predict if a client will subscribe the deposit, not regarding which amount is retained, turning it a classification task. Specifically for the business, the goal is to increase efficiency of directed campaigns for long-term deposit subscriptions by reducing the number of contacts to do.
+I have utilized a dataset related to marketing bank products over the telephone. The goal of this project is to predict if a client will subscribe the deposit, which is a classification task. Specifically for the business, the goal is to increase efficiency of directed campaigns for long-term deposit subscriptions by reducing the number of contacts to do.
 
 ## Dataset and Notebook
 The link to the dataset is: https://github.com/Apeksha-Sridhar/MLAI_Classification/blob/main/bank-additional-full.csv
@@ -33,4 +33,4 @@ Models are not very good due to the imbalance of classes. So next step could be 
  b. Undersample majority class
  c. Oversample the minority class
 Try training the models with not just the bank information features but all the other features as well.
-Stratify the data during the train_test_split due to the imbalanced classes, which will possibly provide better precision scores.
+Stratify the data during the train_test_split due to the imbalanced classes, which will possibly provide better recall scores.
